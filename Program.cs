@@ -7,8 +7,7 @@
 // 8 4 2 4
 // Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
 
-//int rows = 3;
-//int colums = 4;
+
 int[,] numbers = new int[3, 4];
 FillArray2D(numbers);
 PrintArray2D(numbers);
